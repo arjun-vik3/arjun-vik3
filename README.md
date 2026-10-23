@@ -1,6 +1,6 @@
 # Hi, I'm Arjun 👋
 
-### 🕵️ Cyber Forensics | Cyber Forensics
+### 🕵️ Cyber Forensics | Digital Forensics & Incident Response (DFIR)
 
 I'm an IT professional transitioning into cybersecurity, with a background in Microsoft 365 administration, Exchange Online, data protection, eDiscovery, and security and compliance operations.
 
